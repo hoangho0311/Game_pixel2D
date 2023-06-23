@@ -4020,6 +4020,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1906165884648495144, guid: bcb11102c5d6c4243b66a9ff4c2a2add, type: 3}
+      propertyPath: radius
+      value: 0.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 1906165884648495144, guid: bcb11102c5d6c4243b66a9ff4c2a2add, type: 3}
+      propertyPath: waitTime
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3153604118462383709, guid: bcb11102c5d6c4243b66a9ff4c2a2add, type: 3}
       propertyPath: m_Controller
       value: 
